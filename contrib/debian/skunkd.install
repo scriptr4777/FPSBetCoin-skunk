@@ -1,2 +1,2 @@
-debian/bin/signatumd usr/bin
-src/signatumd usr/lib/signatum
+debian/bin/fpsbetcoind usr/bin
+src/fpsbetcoind usr/lib/fpsbetcoin

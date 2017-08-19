@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Signatum</source>
-        <translation>Vad du behöver veta om Signatum</translation>
+        <source>About fpsbetcoin</source>
+        <translation>Vad du behöver veta om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Signatum&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Signatum&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Signatum developers</source>
+Copyright © 2014 The fpsbetcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Signatum developers</translation>
+Copyright © 2014 The fpsbetcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Signatum addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Signatum adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina fpsbetcoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Signatum address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Signatum adressen</translation>
+        <source>Sign a message to prove you own a fpsbetcoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger fpsbetcoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Signatum address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Signatum adress</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik fpsbetcoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Signatum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Signatum plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>fpsbetcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Signatum</source>
-        <translation>Visa information om Signatum</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Visa information om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Signatum address</source>
-        <translation>Skicka coins till en Signatum adress</translation>
+        <source>Send coins to a fpsbetcoin address</source>
+        <translation>Skicka coins till en fpsbetcoin adress</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Signatum</source>
-        <translation>Modifiera konfigurations-alternativ för Signatum</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Modifiera konfigurations-alternativ för fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Signatum</source>
-        <translation>Signatum</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Signatum</source>
-        <translation>&amp;Om Signatum</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>&amp;Om fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Signatum client</source>
-        <translation>Signatum klient</translation>
+        <source>fpsbetcoin client</source>
+        <translation>fpsbetcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Signatum network</source>
-        <translation><numerusform>%n aktiv anslutning till Signatum nätverket</numerusform><numerusform>%n aktiva anslutning till Signatum nätverket</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n aktiv anslutning till fpsbetcoin nätverket</numerusform><numerusform>%n aktiva anslutning till fpsbetcoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Signatum address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Signatum adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig fpsbetcoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Signatum can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. Signatum kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. fpsbetcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1018,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna Signatum-adress</translation>
+        <translation>Namnet som kopplats till denna fpsbetcoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1057,8 +1057,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Signatum address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Signatum adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig fpsbetcoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Signatum-Qt</source>
-        <translation>Signatum-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Signatum after logging in to the system.</source>
-        <translation>Starta Signatum automatiskt vid inloggning.</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Starta fpsbetcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Signatum on system login</source>
-        <translation>&amp;Starta Signatum vid inloggning</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Starta fpsbetcoin vid inloggning</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Signatum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Signatum klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt fpsbetcoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Signatum network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the fpsbetcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Signatum.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Signatum.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Signatum.</source>
-        <translation>Inställningen börjar gälla efter omstart av Signatum.</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Signatum network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Signatum nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med fpsbetcoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start signatum: click-to-pay handler</source>
+        <source>Cannot start fpsbetcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Signatum-Qt help message to get a list with possible Signatum command-line options.</source>
-        <translation>Visa Signatum-Qt hjälp meddelandet för att få en lista över möjliga Signatum kommandoradsalternativ.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Visa fpsbetcoin-Qt hjälp meddelandet för att få en lista över möjliga fpsbetcoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Signatum - Debug window</source>
-        <translation>Signatum - Felsökningsfönster</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Signatum Core</source>
-        <translation>Signatum Core</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>fpsbetcoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Signatum debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Signatum felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna fpsbetcoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Signatum RPC console.</source>
-        <translation>Välkommen till Signatum RPC konsoll.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Välkommen till fpsbetcoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Fyll i en Signatum adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Fyll i en fpsbetcoin adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Signatum address</source>
-        <translation>VARNING: Ogiltig Signatum adress</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>VARNING: Ogiltig fpsbetcoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Fyll i en Signatum adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Fyll i en fpsbetcoin adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Signatum address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Signatum adressen</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna fpsbetcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Signatum address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Signatum adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna fpsbetcoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Fyll i en Signatum adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Fyll i en fpsbetcoin adress (t.ex. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Signatum signature</source>
-        <translation>Fyll i Signatum signatur</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Fyll i fpsbetcoin signatur</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Signatum version</source>
-        <translation>Signatum version</translation>
+        <source>fpsbetcoin version</source>
+        <translation>fpsbetcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or signatumd</source>
-        <translation>Skicka kommando till -server eller signatumd</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Skicka kommando till -server eller fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: signatum.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: signatum.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: signatumd.pid)</source>
-        <translation>Ange pid filen (standard signatumd.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Ange pid filen (standard fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=signatumrpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Signatum will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. Signatum kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. fpsbetcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Signatum is shutting down.</source>
+        <source>Initialization sanity check failed. fpsbetcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Signatum</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av Signatum krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av fpsbetcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Signatum to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om Signatum för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om fpsbetcoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Signatum is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Signatum är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. fpsbetcoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Signatum is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. fpsbetcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

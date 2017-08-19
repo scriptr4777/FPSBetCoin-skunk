@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Signatum</source>
-        <translation>O Signatumu</translation>
+        <source>About fpsbetcoin</source>
+        <translation>O fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Signatum&lt;/b&gt; version</source>
-        <translation>Verze &lt;b&gt;Signatumu&lt;/b&gt; </translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>Verze &lt;b&gt;fpsbetcoinu&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Signatum developers</source>
+Copyright © 2014 The fpsbetcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Signatum developers</translation>
+Copyright © 2014 The fpsbetcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Signatum addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tato jsou tvé Signatum adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tato jsou tvé fpsbetcoin adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Signatum address</source>
-        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto Signatum adresu.</translation>
+        <source>Sign a message to prove you own a fpsbetcoin address</source>
+        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto fpsbetcoin adresu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Signatum address</source>
-        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou Signatum adresou.</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou fpsbetcoin adresou.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Signatum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Pro dokončení procesu šifrování se Signatum nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Pro dokončení procesu šifrování se fpsbetcoin nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Signatum</source>
-        <translation>Zobraz informace a Signatumu</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Zobraz informace a fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Signatum address</source>
-        <translation>Odešli mince na Signatum adresu</translation>
+        <source>Send coins to a fpsbetcoin address</source>
+        <translation>Odešli mince na fpsbetcoin adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Signatum</source>
-        <translation>Uprav možnosti konfigurace pro Signatum</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Uprav možnosti konfigurace pro fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Signatum</source>
-        <translation>Signatum</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Signatum</source>
-        <translation>&amp;O Signatumu</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>&amp;O fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Signatum client</source>
-        <translation>Signatum klient</translation>
+        <source>fpsbetcoin client</source>
+        <translation>fpsbetcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Signatum network</source>
-        <translation><numerusform>%n aktivní spojení do Signatum sítě</numerusform><numerusform>%n aktivních spojení do Signatum sítě</numerusform><numerusform>%n aktivních spojení do Signatum sítě</numerusform></translation>
+        <source>%n active connection(s) to fpsbetcoin network</source>
+        <translation><numerusform>%n aktivní spojení do fpsbetcoin sítě</numerusform><numerusform>%n aktivních spojení do fpsbetcoin sítě</numerusform><numerusform>%n aktivních spojení do fpsbetcoin sítě</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Signatum address or malformed URI parameters.</source>
-        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou Signatum adresou nebo chybnými URI parametry.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou fpsbetcoin adresou nebo chybnými URI parametry.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Signatum can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažné chybě. Signatum již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažné chybě. fpsbetcoin již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Signatum address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Signatum adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná fpsbetcoin adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Signatum-Qt</source>
-        <translation>Signatum-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Signatum after logging in to the system.</source>
-        <translation>Automaticky spustit Signatum po přihlášení do systému.</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Automaticky spustit fpsbetcoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Signatum on system login</source>
-        <translation>&amp;Spustit Signatum při přihlášení do systému</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Spustit fpsbetcoin při přihlášení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Signatum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otevřít port Signatum klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otevřít port fpsbetcoin klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Signatum network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the fpsbetcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Signatum.</source>
-        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Signatumu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu fpsbetcoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Signatum.</source>
-        <translation>Nastavení se projeví až po restartu Signatumu.</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Nastavení se projeví až po restartu fpsbetcoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Signatum network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Signatum sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s fpsbetcoin sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start signatum: click-to-pay handler</source>
+        <source>Cannot start fpsbetcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Signatum-Qt help message to get a list with possible Signatum command-line options.</source>
-        <translation>Zobrazit Signatum-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Zobrazit fpsbetcoin-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Signatum - Debug window</source>
-        <translation>Signatum - Ladící okno</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - Ladící okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Signatum Core</source>
-        <translation>Jádro Signatumu</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>Jádro fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Signatum debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři logovací soubor Signatumu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři logovací soubor fpsbetcoinu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Signatum RPC console.</source>
-        <translation>Vítej v Signatum RPC konzoli.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Vítej v fpsbetcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Napiš Signatum adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Napiš fpsbetcoin adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Signatum address</source>
-        <translation>UPOZORNĚNÍ: Neplatná Signatum adresa</translation>
+        <source>WARNING: Invalid fpsbetcoin address</source>
+        <translation>UPOZORNĚNÍ: Neplatná fpsbetcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Zadej Signatum adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Zadej fpsbetcoin adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Signatum address</source>
-        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto Signatum adresu</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto fpsbetcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Signatum address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Signatum adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou fpsbetcoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Zadej Signatum adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Zadej fpsbetcoin adresu (např. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Signatum signature</source>
-        <translation>Zadej Signatum podpis</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Zadej fpsbetcoin podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Signatum version</source>
-        <translation>Verze Signatumu</translation>
+        <source>fpsbetcoin version</source>
+        <translation>Verze fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or signatumd</source>
-        <translation>Pošli příkaz na -server nebo signatumd</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Pošli příkaz na -server nebo fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: signatum.conf)</source>
-        <translation>Urči konfigurační soubor (výchozí: signatum.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Urči konfigurační soubor (výchozí: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: signatumd.pid)</source>
-        <translation>Urči pid soubor (výchozí: signatumd.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Urči pid soubor (výchozí: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=signatumrpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Signatum will not work properly.</source>
-        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak Signatum nebude pracovat správně. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak fpsbetcoin nebude pracovat správně. </translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Signatum is shutting down.</source>
+        <source>Initialization sanity check failed. fpsbetcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Signatum</source>
-        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi Signatumu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi fpsbetcoinu</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Signatum to complete</source>
-        <translation>Peněženka by potřebovala být přepsána: restartuj Signatum pro dokončení</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>Peněženka by potřebovala být přepsána: restartuj fpsbetcoin pro dokončení</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Signatum is probably already running.</source>
-        <translation>Nemůžu se svázat s %s na tomto počítači. Signatum nejspíše již běží.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Nemůžu se svázat s %s na tomto počítači. fpsbetcoin nejspíše již běží.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Signatum is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. fpsbetcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

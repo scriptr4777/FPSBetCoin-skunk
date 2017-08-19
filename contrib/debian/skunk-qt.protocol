@@ -1,6 +1,6 @@
 [Protocol]
-exec=signatum-qt '%u'
-protocol=signatum
+exec=fpsbetcoin-qt '%u'
+protocol=fpsbetcoin
 input=none
 output=none
 helper=true

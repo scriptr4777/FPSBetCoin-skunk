@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Signatum</source>
-        <translation>О Signatum</translation>
+        <source>About fpsbetcoin</source>
+        <translation>О fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Signatum&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Signatum&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;fpsbetcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;fpsbetcoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Signatum developers</source>
+Copyright © 2014 The fpsbetcoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики Signatum</translation>
+Все права защищены © 2014 Разработчики fpsbetcoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Signatum addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your fpsbetcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Signatum address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Signatum</translation>
+        <source>Sign a message to prove you own a fpsbetcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Signatum address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Signatum</translation>
+        <source>Verify a message to ensure it was signed with a specified fpsbetcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом fpsbetcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Signatum will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>fpsbetcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Signatum</source>
-        <translation>Показать информацию о Signatum&apos;е</translation>
+        <source>Show information about fpsbetcoin</source>
+        <translation>Показать информацию о fpsbetcoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Signatum address</source>
-        <translation>Отправить монеты на указанный адрес Signatum</translation>
+        <source>Send coins to a fpsbetcoin address</source>
+        <translation>Отправить монеты на указанный адрес fpsbetcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Signatum</source>
-        <translation>Изменить параметры конфигурации Signatum</translation>
+        <source>Modify configuration options for fpsbetcoin</source>
+        <translation>Изменить параметры конфигурации fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Signatum</source>
-        <translation>Signatum</translation>
+        <source>fpsbetcoin</source>
+        <translation>fpsbetcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Signatum</source>
-        <translation>&amp;О Signatum</translation>
+        <source>&amp;About fpsbetcoin</source>
+        <translation>&amp;О fpsbetcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Signatum client</source>
-        <translation>Signatum клиент</translation>
+        <source>fpsbetcoin client</source>
+        <translation>fpsbetcoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Signatum network</source>
+        <source>%n active connection(s) to fpsbetcoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Signatum address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Signatum или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid fpsbetcoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом fpsbetcoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Signatum can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Signatum не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. fpsbetcoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. fpsbetcoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1043,8 +1043,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Signatum address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Signatum-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid fpsbetcoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным fpsbetcoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Signatum-Qt</source>
-        <translation>Signatum-Qt</translation>
+        <source>fpsbetcoin-Qt</source>
+        <translation>fpsbetcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,13 +1135,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Signatum after logging in to the system.</source>
-        <translation>Автоматически запускать Signatum после входа в систему</translation>
+        <source>Automatically start fpsbetcoin after logging in to the system.</source>
+        <translation>Автоматически запускать fpsbetcoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Signatum on system login</source>
-        <translation>&amp;Запускать Signatum при входе в систему</translation>
+        <source>&amp;Start fpsbetcoin on system login</source>
+        <translation>&amp;Запускать fpsbetcoin при входе в систему</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1150,8 +1150,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Signatum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Signatum-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the fpsbetcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для fpsbetcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Signatum network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the fpsbetcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1225,8 +1225,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Signatum.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Signatum.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1292,8 +1292,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Signatum.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Signatum</translation>
+        <source>This setting will take effect after restarting fpsbetcoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска fpsbetcoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Signatum network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Signatum после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fpsbetcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью fpsbetcoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1385,7 +1385,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start signatum: click-to-pay handler</source>
+        <source>Cannot start fpsbetcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1553,8 +1553,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Signatum-Qt help message to get a list with possible Signatum command-line options.</source>
-        <translation>Показать помощь по Signatum-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the fpsbetcoin-Qt help message to get a list with possible fpsbetcoin command-line options.</source>
+        <translation>Показать помощь по fpsbetcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Signatum - Debug window</source>
-        <translation>Signatum - Окно отладки</translation>
+        <source>fpsbetcoin - Debug window</source>
+        <translation>fpsbetcoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Signatum Core</source>
-        <translation>Ядро Signatum</translation>
+        <source>fpsbetcoin Core</source>
+        <translation>Ядро fpsbetcoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1588,8 +1588,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Signatum debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Signatum из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the fpsbetcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл fpsbetcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Signatum RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Signatum.</translation>
+        <source>Welcome to the fpsbetcoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль fpsbetcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1779,8 +1779,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Введите Signatum-адрес (например SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Введите fpsbetcoin-адрес (например SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Signatum address</source>
+        <source>WARNING: Invalid fpsbetcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1953,8 +1953,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Введите Signatum-адрес (например SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Введите fpsbetcoin-адрес (например SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Signatum address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Signatum</translation>
+        <source>Sign the message to prove you own this fpsbetcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2046,8 +2046,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Signatum address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Signatum</translation>
+        <source>Verify the message to ensure it was signed with the specified fpsbetcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом fpsbetcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2057,8 +2057,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Signatum address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
-        <translation>Введите адрес Signatum (напр. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
+        <source>Enter a fpsbetcoin address (e.g. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</source>
+        <translation>Введите адрес fpsbetcoin (напр. SjBj1QvJvsAkU5EBKggdZ8gWc4oK2F5AMY)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2067,8 +2067,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Signatum signature</source>
-        <translation>Введите подпись Signatum</translation>
+        <source>Enter fpsbetcoin signature</source>
+        <translation>Введите подпись fpsbetcoin</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2646,7 +2646,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Signatum version</source>
+        <source>fpsbetcoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2656,8 +2656,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or signatumd</source>
-        <translation>Отправить команду на -server или signatumd</translation>
+        <source>Send command to -server or fpsbetcoind</source>
+        <translation>Отправить команду на -server или fpsbetcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2677,13 +2677,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: signatum.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: signatum.conf)</translation>
+        <source>Specify configuration file (default: fpsbetcoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: fpsbetcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: signatumd.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: signatumd.pid)</translation>
+        <source>Specify pid file (default: fpsbetcoind.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: fpsbetcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2700,13 +2700,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=signatumrpc
+rpcuser=fpsbetcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;fpsbetcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2812,8 +2812,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Signatum will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Signatum будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong fpsbetcoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, fpsbetcoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3108,7 +3108,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Signatum is shutting down.</source>
+        <source>Initialization sanity check failed. fpsbetcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3163,13 +3163,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Signatum</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Signatum</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fpsbetcoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию fpsbetcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Signatum to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Signatum для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart fpsbetcoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите fpsbetcoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3228,8 +3228,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Signatum is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Signatum уже работает.</translation>
+        <source>Unable to bind to %s on this computer. fpsbetcoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, fpsbetcoin уже работает.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3263,7 +3263,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Signatum Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Signatum is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. fpsbetcoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>

@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Signatum version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("fpsbetcoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  signatumd [options]                     " + "\n" +
-                  "  signatumd [options] <command> [params]  " + _("Send command to -server or signatumd") + "\n" +
-                  "  signatumd [options] help                " + _("List commands") + "\n" +
-                  "  signatumd [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  fpsbetcoind [options]                     " + "\n" +
+                  "  fpsbetcoind [options] <command> [params]  " + _("Send command to -server or fpsbetcoind") + "\n" +
+                  "  fpsbetcoind [options] help                " + _("List commands") + "\n" +
+                  "  fpsbetcoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "signatum:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "fpsbetcoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)

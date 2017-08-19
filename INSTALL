@@ -1,9 +1,9 @@
-Building Signatum
+Building fpsbetcoin
 
-See doc/readme-qt.rst for instructions on building Signatum QT,
+See doc/readme-qt.rst for instructions on building fpsbetcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Signatum.
+implementation of fpsbetcoin.
 
-See doc/build-*.txt for instructions on building signatumd,
+See doc/build-*.txt for instructions on building fpsbetcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Signatum.
+implementation of fpsbetcoin.

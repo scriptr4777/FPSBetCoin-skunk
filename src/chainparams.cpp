@@ -88,7 +88,7 @@ public:
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
-        const char* pszTimestamp = "SIGNATUM OFFICIAL FAIR LAUNCH";
+        const char* pszTimestamp = "fpsbetcoin OFFICIAL FAIR LAUNCH";
         std::vector<CTxIn> vin;
         vin.resize(1);
         vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -170,7 +170,7 @@ public:
         vSeeds.clear();
         vSeeds.push_back(CDNSSeedData("107.22.138.243", "107.22.138.243"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 65); // signatum test net start with T
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 65); // fpsbetcoin test net start with T
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 196);
         base58Prefixes[SECRET_KEY]     = std::vector<unsigned char>(1, 65 + 128);
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x35)(0x87)(0xCF).convert_to_container<std::vector<unsigned char> >();

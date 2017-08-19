@@ -22,7 +22,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Signatum cannot be compiled without assertions."
+# error "fpsbetcoin cannot be compiled without assertions."
 #endif
 
 //
@@ -78,7 +78,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Signatum Signed Message:\n";
+const string strMessageMagic = "fpsbetcoin Signed Message:\n";
 
 //////////////////////////////////////////////////////////////////////////////
 //
@@ -2751,7 +2751,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("signatum-loadblk");
+    RenameThread("fpsbetcoin-loadblk");
 
     CImportingNow imp;
 

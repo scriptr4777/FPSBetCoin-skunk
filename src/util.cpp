@@ -918,7 +918,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "signatum";
+    const char* pszModule = "fpsbetcoin";
 #endif
     if (pex)
         return strprintf(
@@ -948,13 +948,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Signatum
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Signatum
-    // Mac: ~/Library/Application Support/Signatum
-    // Unix: ~/.signatum
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\fpsbetcoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\fpsbetcoin
+    // Mac: ~/Library/Application Support/fpsbetcoin
+    // Unix: ~/.fpsbetcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Signatum";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "fpsbetcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -966,10 +966,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Signatum";
+    return pathRet / "fpsbetcoin";
 #else
     // Unix
-    return pathRet / ".signatum";
+    return pathRet / ".fpsbetcoin";
 #endif
 #endif
 }
@@ -1018,7 +1018,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "signatum.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "fpsbetcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1051,7 +1051,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "signatumd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "fpsbetcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

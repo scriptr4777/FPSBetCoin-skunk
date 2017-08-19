@@ -5,29 +5,29 @@
 #build/bitcoind::
 #	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_bitcoin)
 
-DEB_INSTALL_EXAMPLES_signatumd += debian/examples/*
-DEB_INSTALL_MANPAGES_signatumd += debian/manpages/*
+DEB_INSTALL_EXAMPLES_fpsbetcoind += debian/examples/*
+DEB_INSTALL_MANPAGES_fpsbetcoind += debian/manpages/*
 
 %:
 	dh --with bash-completion $@
 
 override_dh_auto_build:
-	cd src; $(MAKE) -f makefile.unix signatumd
+	cd src; $(MAKE) -f makefile.unix fpsbetcoind
 	$(MAKE)
 
 override_dh_auto_clean:
-	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f signatum-qt; fi
+	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f fpsbetcoin-qt; fi
 	cd src; $(MAKE) -f makefile.unix clean
 
 override_dh_auto_configure:
-	qmake signatum-qt.pro USE_QRCODE=1
+	qmake fpsbetcoin-qt.pro USE_QRCODE=1
 
 override_dh_auto_test:
-	cd src; $(MAKE) -f makefile.unix test_signatum
-	src/test_signatum
+	cd src; $(MAKE) -f makefile.unix test_fpsbetcoin
+	src/test_fpsbetcoin
 
 # Ensure wrapper is set executable
-binary-post-install/signatumd:
-	chmod +x $(cdbs_curdestdir)usr/bin/signatumd
-binary-post-install/signatum-qt:
-	chmod +x $(cdbs_curdestdir)usr/bin/signatum-qt
+binary-post-install/fpsbetcoind:
+	chmod +x $(cdbs_curdestdir)usr/bin/fpsbetcoind
+binary-post-install/fpsbetcoin-qt:
+	chmod +x $(cdbs_curdestdir)usr/bin/fpsbetcoin-qt

@@ -1,5 +1,5 @@
-signatum-qt usr/bin
+fpsbetcoin-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin80.xpm usr/share/pixmaps
-debian/signatum-qt.desktop usr/share/applications
-debian/signatum-qt.protocol usr/share/kde4/services/
+debian/fpsbetcoin-qt.desktop usr/share/applications
+debian/fpsbetcoin-qt.protocol usr/share/kde4/services/

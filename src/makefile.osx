@@ -3,7 +3,7 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-# Mac OS X makefile for signatum
+# Mac OS X makefile for fpsbetcoin
 # Originally by Laszlo Hanyecz (solar@heliacal.net)
 
 USE_UPNP:=1
@@ -44,7 +44,7 @@ else
 endif
 
 ifdef STATIC
-# Build STATIC if you are redistributing the signatumd binary
+# Build STATIC if you are redistributing the fpsbetcoind binary
 LIBS += \
  $(DEPSDIR)/lib/libboost_system-mt.a \
  $(DEPSDIR)/lib/libboost_filesystem-mt.a \
@@ -145,7 +145,7 @@ else
 endif
 endif
 
-all: signatumd
+all: fpsbetcoind
 
 ifeq ($(HAVE_BREW_LEVELDB), 0)
 	LIBS += -lleveldb
@@ -186,11 +186,11 @@ obj/scrypt-x86.o: scrypt-x86.S
 obj/scrypt-x86_64.o: scrypt-x86_64.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
 
-signatumd: $(OBJS:obj/%=obj/%)
+fpsbetcoind: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-rm -f signatumd
+	-rm -f fpsbetcoind
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h

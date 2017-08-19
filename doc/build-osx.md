@@ -1,4 +1,4 @@
-# Mac OS X Signatumd Build Instructions
+# Mac OS X fpsbetcoind Build Instructions
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Distributed under the MIT/X11 software license, see the accompanying file
@@ -8,14 +8,14 @@ OpenSSL Toolkit (http://www.openssl.org/).  This product includes cryptographic
 software written by Eric Young (eay@cryptsoft.com) and UPnP software written by
 Thomas Bernard.
 
-Signatum authors:
+fpsbetcoin authors:
 
 - Laszlo Hanyecz <solar@heliacal.net>
 - Douglas Huff <dhuff@jrbobdobbs.org>
 
 ## Notes
 
-* See readme-qt.rst for instructions on building Signatum QT, the
+* See readme-qt.rst for instructions on building fpsbetcoin QT, the
 graphical user interface.
 
 * Tested on 10.5 and 10.6 intel.  PPC is not supported because it's big-endian.
@@ -48,14 +48,14 @@ Homebrew is an alternative to MacPorts. If you're using MacPorts, skip this sect
 
 		brew install leveldb berkeley-db4 boost miniupnpc openssl
 
-## Building Signatum
+## Building fpsbetcoin
 
-    git clone https://github.com/signatumd/source signatum
-    cd signatum/src
+    git clone https://github.com/fpsbetcoind/source fpsbetcoin
+    cd fpsbetcoin/src
     make -f makefile.osx
 
 ## Useful commands
 
-    ./signatumd --help  # for a list of command-line options.
-    ./signatumd -daemon # to start the signatum daemon.
-    ./signatumd help    # When the daemon is running, to get a list of RPC commands
+    ./fpsbetcoind --help  # for a list of command-line options.
+    ./fpsbetcoind -daemon # to start the fpsbetcoin daemon.
+    ./fpsbetcoind help    # When the daemon is running, to get a list of RPC commands
