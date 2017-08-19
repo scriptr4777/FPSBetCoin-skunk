@@ -76,8 +76,8 @@ public:
         pchMessageStart[2] = 0xa7;
         pchMessageStart[3] = 0x7d;
         vAlertPubKey = ParseHex("0486cce1bac0d543f104cbff2bd23680056a3b9ea05e1137d2ff90eeb5e08472eb500322593a2cb06fbf8297d7beb6cd30cb90f98153b5b7cce1493749e41e0284");
-        nDefaultPort = 33333;
-        nRPCPort = 33334;
+        nDefaultPort = 47771;
+        nRPCPort = 47772;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
@@ -110,12 +110,7 @@ public:
 
         //MineGenesis(genesis);
 
-        vSeeds.push_back(CDNSSeedData("54.175.225.242", "54.175.225.242"));
-        vSeeds.push_back(CDNSSeedData("122.129.64.13", "122.129.64.13"));
-        vSeeds.push_back(CDNSSeedData("122.129.64.14", "122.129.64.14"));
-        vSeeds.push_back(CDNSSeedData("122.129.64.15", "122.129.64.15"));
-        vSeeds.push_back(CDNSSeedData("122.129.64.16", "122.129.64.16"));
-        vSeeds.push_back(CDNSSeedData("203.128.6.219", "203.128.6.219"));
+        vSeeds.push_back(CDNSSeedData("130.211.160.219", "130.211.160.219"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 25);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 125);
